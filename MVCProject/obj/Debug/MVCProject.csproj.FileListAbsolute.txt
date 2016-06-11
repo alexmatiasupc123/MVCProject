@@ -178,6 +178,5 @@ C:\Users\Victor\Documents\Software Factory\GIT\MVCProject\bin\ko\System.Spatial.
 C:\Users\Victor\Documents\Software Factory\GIT\MVCProject\bin\ru\System.Spatial.resources.dll
 C:\Users\Victor\Documents\Software Factory\GIT\MVCProject\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\Victor\Documents\Software Factory\GIT\MVCProject\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\Victor\Documents\Software Factory\GIT\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
 C:\Users\Victor\Documents\Software Factory\GIT\MVCProject\obj\Debug\MVCProject.dll
 C:\Users\Victor\Documents\Software Factory\GIT\MVCProject\obj\Debug\MVCProject.pdb
