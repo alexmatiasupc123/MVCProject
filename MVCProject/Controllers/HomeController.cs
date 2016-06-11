@@ -10,8 +10,8 @@ namespace MVCProject.Controllers
     {
         public ActionResult Index()
         {
-            Guid id=new Guid();
-            var x = id.ToString(); 
+            
+            var x = Guid.NewGuid(); 
             ViewBag.Message = x.ToString();
 
             
