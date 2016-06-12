@@ -1,0 +1,186 @@
+﻿<link href="@Url.Content("~/Content/css/font-awesome.min.css")" rel="stylesheet">
+
+<!--
+<%
+
+    String nombres=session.getAttribute("nombres")+" "+session.getAttribute("apellidoP")+" "+session.getAttribute("apellidoM");
+    String nombresMostrar="";
+
+    if(nombresMostrar==null)
+     nombresMostrar="";
+    else
+    nombresMostrar=nombres;
+
+    String sexoS=session.getAttribute("sexo")+"";
+    String pagSexo="";
+
+    if(sexoS==null)
+     sexoS="";
+    else
+    {
+        if(sexoS.equals("true"))
+            pagSexo="2";
+        else if(sexoS.equals("false"))
+            pagSexo="1";
+        else
+            pagSexo="2";
+    }
+
+ %>
+    -->
+
+<input id="sexoLabel" type="hidden" value="2"></input>
+<aside id="sidebar" class="sidebar c-overflow">
+    <div class="profile-menu">
+        <a href="#">
+            <div class="profile-pic">
+                <img src="@Url.Content("~/Content/img/profile-pics/1.jpg")" alt="">
+            </div>
+
+            <div class="profile-info">
+                <label id="nameL">Alex y Brenda :)</label>
+
+                <i class="zmdi zmdi-caret-down"></i>
+            </div>
+        </a>
+
+        <ul class="main-menu">
+            <li>
+                <a id="perfilA" href="#"><i id="perfil" class="zmdi zmdi-account"></i> Perfil de Usuario</a>
+            </li>
+            <li>
+                <a id="contraA" href="#"><i id="contra" class="zmdi zmdi-settings"></i> Cambiar contraseña</a>
+            </li>
+            <li>
+                <a id="cerrarA" href="ServletUsuario?accion=cerrars"><i id="cerrar" class="zmdi zmdi-time-restore"></i> Cerrar sesión</a>
+            </li>
+        </ul>
+    </div>
+
+    <ul class="main-menu">
+        <li class="active">
+            <a id="dashA" href="index.jsp"><i id="dashboard" class="zmdi zmdi-home zmdi-hc-fw"></i> Dashboard</a>
+        </li>
+
+        <li><a id="timelineA" href="#"><i id="timeline" class="zmdi zmdi-time-countdown zmdi-hc-fw"></i> Love Timeline</a></li>
+        <li class="sub-menu">
+            <a id="planesA" href="#"><i id="planes" class="zmdi zmdi-directions-bike zmdi-hc-fw"></i> Planes y Escapadas</a>
+
+            <ul>
+                <li><a href="textual-menu.html"><i class="fa fa-child"></i>&nbsp;&nbsp;&nbsp;&nbsp; Mis Planes</a></li>
+                <li><a href="image-logo.html"><i class="fa fa-child"></i><i class="fa fa-female"></i>&nbsp; Planes de Pareja</a></li>
+
+            </ul>
+        </li>
+        <li><a id="consA" href="#"><i id="cons" class="zmdi zmdi-assignment-o zmdi-hc-fw"></i> Constitución Premarital</a></li>
+        <li>
+            <a id="pinkyA" href="#"><i id="pinky" class="fa fa-heart animated zmdi-hc-fw"></i> P I N K Y _ A D AS</a>
+
+
+        </li>
+        <li>
+            <a id="preA" href="#"><i id="pre" class="fa fa-credit-card  zmdi-hc-fw"></i> Presupuesto de Pareja</a>
+
+        </li>
+
+    </ul>
+</aside>
+
+<aside id="chat" class="sidebar c-overflow">
+
+    <div class="chat-search">
+        <div class="fg-line">
+            <input type="text" class="form-control" placeholder="Search People">
+        </div>
+    </div>
+
+    <div class="listview">
+        <a class="lv-item" href="#">
+            <div class="media">
+                <div class="pull-left p-relative">
+                    <img class="lv-img-sm" src="@Url.Content("~/Content/img/profile-pics/2.jpg")" alt="">
+                    <i class="chat-status-busy"></i>
+                </div>
+                <div class="media-body">
+                    <div class="lv-title">Jonathan Morris</div>
+                    <small class="lv-small">Available</small>
+                </div>
+            </div>
+        </a>
+
+        <a class="lv-item" href="#">
+            <div class="media">
+                <div class="pull-left">
+                    <img class="lv-img-sm" src="@Url.Content("~/Content/img/profile-pics/1.jpg")" alt="">
+                </div>
+                <div class="media-body">
+                    <div class="lv-title">David Belle</div>
+                    <small class="lv-small">Last seen 3 hours ago</small>
+                </div>
+            </div>
+        </a>
+
+        <a class="lv-item" href="#">
+            <div class="media">
+                <div class="pull-left p-relative">
+                    <img class="lv-img-sm" src="@Url.Content("~/Content/img/profile-pics/3.jpg")" alt="">
+                    <i class="chat-status-online"></i>
+                </div>
+                <div class="media-body">
+                    <div class="lv-title">Fredric Mitchell Jr.</div>
+                    <small class="lv-small">Availble</small>
+                </div>
+            </div>
+        </a>
+
+        <a class="lv-item" href="#">
+            <div class="media">
+                <div class="pull-left p-relative">
+                    <img class="lv-img-sm" src="@Url.Content("~/Content/img/profile-pics/4.jpg")" alt="">
+                    <i class="chat-status-online"></i>
+                </div>
+                <div class="media-body">
+                    <div class="lv-title">Glenn Jecobs</div>
+                    <small class="lv-small">Availble</small>
+                </div>
+            </div>
+        </a>
+
+        <a class="lv-item" href="#">
+            <div class="media">
+                <div class="pull-left">
+                    <img class="lv-img-sm" src="@Url.Content("~/Content/img/profile-pics/5.jpg")" alt="">
+                </div>
+                <div class="media-body">
+                    <div class="lv-title">Bill Phillips</div>
+                    <small class="lv-small">Last seen 3 days ago</small>
+                </div>
+            </div>
+        </a>
+
+        <a class="lv-item" href="#">
+            <div class="media">
+                <div class="pull-left">
+                    <img class="lv-img-sm" src="@Url.Content("~/Content/img/profile-pics/6.jpg")" alt="">
+                </div>
+                <div class="media-body">
+                    <div class="lv-title">Wendy Mitchell</div>
+                    <small class="lv-small">Last seen 2 minutes ago</small>
+                </div>
+            </div>
+        </a>
+        <a class="lv-item" href="#">
+            <div class="media">
+                <div class="pull-left p-relative">
+                    <img class="lv-img-sm" src="@Url.Content("~/Content/img/profile-pics/7.jpg")" alt="">
+                    <i class="chat-status-busy"></i>
+                </div>
+                <div class="media-body">
+                    <div class="lv-title">Teena Bell Ann</div>
+                    <small class="lv-small">Busy</small>
+                </div>
+            </div>
+        </a>
+    </div>
+</aside>
+
