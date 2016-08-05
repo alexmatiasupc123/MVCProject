@@ -1,0 +1,10 @@
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Servicio\bin\MVCBolita.Servicio.dll.config
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Servicio\bin\MVCBolita.Servicio.dll
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Servicio\bin\MVCBolita.Servicio.pdb
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Servicio\bin\MVCBolita.Business.dll
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Servicio\bin\MVCBolita.Entidad.dll
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Servicio\bin\MVCBolita.Business.pdb
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Servicio\bin\MVCBolita.Entidad.pdb
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Servicio\obj\Debug\MVCBolita.Servicio.csprojResolveAssemblyReference.cache
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Servicio\obj\Debug\MVCBolita.Servicio.dll
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Servicio\obj\Debug\MVCBolita.Servicio.pdb

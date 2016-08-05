@@ -1,0 +1,5 @@
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Entidad\bin\Debug\MVCBolita.Entidad.dll
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Entidad\bin\Debug\MVCBolita.Entidad.pdb
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Entidad\obj\Debug\MVCBolita.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Entidad\obj\Debug\MVCBolita.Entidad.dll
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Entidad\obj\Debug\MVCBolita.Entidad.pdb
