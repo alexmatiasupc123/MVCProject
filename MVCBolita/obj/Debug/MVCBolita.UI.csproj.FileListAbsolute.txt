@@ -14,8 +14,6 @@ C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\Microsoft.D
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\Microsoft.Web.WebPages.OAuth.dll
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\MVCBolita.Entidad.dll
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\MVCBolita.Servicio.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\Newtonsoft.Json.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\System.Net.Http.Formatting.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\System.Spatial.dll
@@ -32,8 +30,6 @@ C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\System.Web.
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\WebGrease.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\WebMatrix.Data.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\WebMatrix.WebData.dll
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\MVCBolita.Entidad.pdb
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\MVCBolita.Servicio.pdb
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\EntityFramework.xml
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\Newtonsoft.Json.xml
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\System.Net.Http.Formatting.xml
@@ -99,6 +95,6 @@ C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\ko\System.S
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\ru\System.Spatial.resources.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\obj\Debug\MVCBolita.UI.csprojResolveAssemblyReference.cache
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\obj\Debug\MVCProject.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\obj\Debug\MVCProject.pdb
+C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\obj\Debug\MVCBolita.UI.csprojResolveAssemblyReference.cache

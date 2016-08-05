@@ -669,16 +669,6 @@
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MVCBolita.Entidad\MVCBolita.Entidad.csproj">
-      <Project>{7f839a68-baf8-417a-9a54-3dd63e2b96df}</Project>
-      <Name>MVCBolita.Entidad</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\MVCBolita.Servicio\MVCBolita.Servicio.csproj">
-      <Project>{7a256f14-a49c-4776-b8ce-eb6e79f7c5c3}</Project>
-      <Name>MVCBolita.Servicio</Name>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

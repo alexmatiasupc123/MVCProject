@@ -1,9 +1,0 @@
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Business\bin\Debug\MVCBolita.Business.dll
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Business\bin\Debug\MVCBolita.Business.pdb
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Business\bin\Debug\MVCBolita.DataAccess.dll
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Business\bin\Debug\MVCBolita.Entidad.dll
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Business\bin\Debug\MVCBolita.DataAccess.pdb
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Business\bin\Debug\MVCBolita.Entidad.pdb
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Business\obj\Debug\MVCBolita.Business.csprojResolveAssemblyReference.cache
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Business\obj\Debug\MVCBolita.Business.dll
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita.Business\obj\Debug\MVCBolita.Business.pdb
