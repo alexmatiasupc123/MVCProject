@@ -97,4 +97,3 @@ C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\zh-Hans\Sys
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\bin\zh-Hant\System.Spatial.resources.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\obj\Debug\MVCProject.dll
 C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\obj\Debug\MVCProject.pdb
-C:\Users\alexander.matias\Desktop\MVCBolita\MVCProject\MVCBolita\obj\Debug\MVCBolita.UI.csprojResolveAssemblyReference.cache

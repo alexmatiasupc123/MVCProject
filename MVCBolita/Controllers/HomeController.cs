@@ -4,18 +4,23 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+
 namespace MVCProject.Controllers
 {
     public class HomeController : Controller
     {
+        
+        
         public ActionResult Index()
         {
             
-            var x = Guid.NewGuid(); 
-            ViewBag.Message = x.ToString();
+            //var x = Guid.NewGuid(); 
+            ServiceBolitaReference.IService1 service = new ServiceBolitaReference.Service1Client();
 
-            
-            
+            int num = 50;
+            string description=service.GetData(num);
+
+            ViewBag.Message = description.ToString();
 
             return View();
         }
