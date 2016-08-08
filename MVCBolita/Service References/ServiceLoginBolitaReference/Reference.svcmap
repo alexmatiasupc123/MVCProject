@@ -19,14 +19,14 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://mvcprojectservices.apphb.com/Service1.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://mvcprojectservices.apphb.com/Login/ServiceLogin.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="Service1.xsd" MetadataType="Schema" ID="729454ff-29c1-4317-97a4-426aaeba1af1" SourceId="1" SourceUrl="http://mvcprojectservices.apphb.com/Service1.svc?xsd=xsd2" />
-    <MetadataFile FileName="Service11.xsd" MetadataType="Schema" ID="3981bf3b-c9bb-4a6f-8d75-0482b7ed7ae4" SourceId="1" SourceUrl="http://mvcprojectservices.apphb.com/Service1.svc?xsd=xsd0" />
-    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="342d7c83-9e97-4881-8f9b-1997b38f0dc4" SourceId="1" SourceUrl="http://mvcprojectservices.apphb.com/Service1.svc?wsdl" />
-    <MetadataFile FileName="Service1.disco" MetadataType="Disco" ID="ccbf1e21-f8c5-492f-a8c5-278904ca5bd7" SourceId="1" SourceUrl="http://mvcprojectservices.apphb.com/Service1.svc?disco" />
-    <MetadataFile FileName="Service12.xsd" MetadataType="Schema" ID="5c1dba07-4a0e-4a04-9115-4419681b8f62" SourceId="1" SourceUrl="http://mvcprojectservices.apphb.com/Service1.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceLogin.xsd" MetadataType="Schema" ID="a1d37165-69cf-4364-a54a-73946a3b753a" SourceId="1" SourceUrl="http://mvcprojectservices.apphb.com/Login/ServiceLogin.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceLogin1.xsd" MetadataType="Schema" ID="f8054d96-6de9-4f93-9095-ab511bab1ff1" SourceId="1" SourceUrl="http://mvcprojectservices.apphb.com/Login/ServiceLogin.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceLogin.wsdl" MetadataType="Wsdl" ID="7671faaa-2245-4f60-a342-0962bbd3da3f" SourceId="1" SourceUrl="http://mvcprojectservices.apphb.com/Login/ServiceLogin.svc?wsdl" />
+    <MetadataFile FileName="ServiceLogin.disco" MetadataType="Disco" ID="10eee736-28a6-45a1-83fa-33599461391f" SourceId="1" SourceUrl="http://mvcprojectservices.apphb.com/Login/ServiceLogin.svc?disco" />
+    <MetadataFile FileName="ServiceLogin2.xsd" MetadataType="Schema" ID="516f454e-ca11-41ba-81a6-658de989053a" SourceId="1" SourceUrl="http://mvcprojectservices.apphb.com/Login/ServiceLogin.svc?xsd=xsd2" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

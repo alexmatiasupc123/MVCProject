@@ -193,7 +193,7 @@
     </Compile>
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Service References\ServiceBolitaReference\Reference.cs">
+    <Compile Include="Service References\ServiceLoginBolitaReference\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -625,16 +625,16 @@
     <Content Include="Scripts\knockout-2.2.0.debug.js" />
     <Content Include="Scripts\knockout-2.2.0.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
-    <Content Include="Service References\ServiceBolitaReference\MVCProject.ServiceBolitaReference.CompositeType.datasource">
+    <None Include="Service References\ServiceLoginBolitaReference\configuration91.svcinfo" />
+    <None Include="Service References\ServiceLoginBolitaReference\configuration.svcinfo" />
+    <Content Include="Service References\ServiceLoginBolitaReference\MVCProject.ServiceLoginBolitaReference.CompositeType.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Content>
-    <None Include="Service References\ServiceBolitaReference\Service1.disco" />
-    <None Include="Service References\ServiceBolitaReference\configuration91.svcinfo" />
-    <None Include="Service References\ServiceBolitaReference\configuration.svcinfo" />
-    <None Include="Service References\ServiceBolitaReference\Reference.svcmap">
+    <None Include="Service References\ServiceLoginBolitaReference\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
+    <None Include="Service References\ServiceLoginBolitaReference\ServiceLogin.disco" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -678,14 +678,14 @@
     <Content Include="Views\Shared\_Sidebar.cshtml" />
     <Content Include="Views\Shared\_Header.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <None Include="Service References\ServiceBolitaReference\Service1.wsdl" />
-    <None Include="Service References\ServiceBolitaReference\Service1.xsd">
+    <None Include="Service References\ServiceLoginBolitaReference\ServiceLogin.wsdl" />
+    <None Include="Service References\ServiceLoginBolitaReference\ServiceLogin.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\ServiceBolitaReference\Service11.xsd">
+    <None Include="Service References\ServiceLoginBolitaReference\ServiceLogin1.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\ServiceBolitaReference\Service12.xsd">
+    <None Include="Service References\ServiceLoginBolitaReference\ServiceLogin2.xsd">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
@@ -699,7 +699,7 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadataStorage Include="Service References\ServiceBolitaReference\" />
+    <WCFMetadataStorage Include="Service References\ServiceLoginBolitaReference\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -15,10 +15,10 @@ namespace MVCProject.Controllers
         {
             
             //var x = Guid.NewGuid(); 
-            ServiceBolitaReference.IService1 service = new ServiceBolitaReference.Service1Client();
+            ServiceLoginBolitaReference.IServiceLogin service = new ServiceLoginBolitaReference.ServiceLoginClient();
 
             int num = 50;
-            string description=service.GetData(num);
+            string description=service.ValidateConnection(num);
 
             ViewBag.Message = description.ToString();
 
