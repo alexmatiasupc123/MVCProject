@@ -186,6 +186,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\BolitaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
     <Compile Include="Global.asax.cs">
@@ -669,10 +670,8 @@
     <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\IndexAnterior.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
-    <Content Include="Views\Shared\_LayoutAnterior.cshtml" />
     <Content Include="Views\Web.config" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Shared\_Sidebar.cshtml" />
@@ -688,6 +687,7 @@
     <None Include="Service References\ServiceLoginBolitaReference\ServiceLogin2.xsd">
       <SubType>Designer</SubType>
     </None>
+    <Content Include="Views\Bolita\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -719,7 +719,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>63821</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:63821/</IISUrl>
+          <IISUrl>http://localhost:44301/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
